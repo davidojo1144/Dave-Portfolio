@@ -8,7 +8,7 @@ import { Footer } from "./components/footer"
 
 export default function App() {
   return (
-    <main className="min-h-dvh flex flex-col">
+    <main className="min-h-dvh flex flex-col overflow-x-hidden">
       <NavBar />
       <HeroSection />
       <section id="skills" className="py-16 md:py-20">

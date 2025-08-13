@@ -27,7 +27,7 @@ export function NavBar() {
     <header className="sticky top-0 z-50 w-full border-b bg-white/80 backdrop-blur dark:bg-neutral-950/80">
       <div className="max-w-6xl px-4 h-14 flex items-center justify-between mx-auto">
         <a href="#" className="font-semibold tracking-tight">
-          <span>dev</span>
+          <span>Dave</span>
           <span className="text-emerald-500">.portfolio</span>
         </a>
 
