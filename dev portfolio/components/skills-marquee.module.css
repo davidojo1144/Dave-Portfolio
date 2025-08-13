@@ -1,0 +1,20 @@
+@keyframes scroll-left {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.marqueeTrack {
+  display: flex;
+  gap: 1.5rem;
+  width: max-content;
+  animation: scroll-left 28s linear infinite;
+  will-change: transform;
+}
+
+.marqueeWrap {
+  overflow: hidden;
+}

@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Accessible focus */
+:focus-visible {
+  outline: 2px solid rgb(16 185 129 / 0.9);
+  outline-offset: 2px;
+}
