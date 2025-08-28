@@ -8,7 +8,7 @@ export function ProjectsSection() {
       title: "Go Sharperly",
       description: "A logistics web application designed to help merchants manage, track, and optimize their shipping and delivery operations seamlessly.",
       image: assets.project1,
-      tags: ["React vite", "Node js", "Mongo Db", "Deep Linking"],
+      tags: ["React vite", "Node js", "Mongo Db", "Redux", "Deep Linking"],
       live: "https://app.gosharperly.com/login",
       repo: "#",
     },
@@ -31,10 +31,10 @@ export function ProjectsSection() {
     {
       title: "Learn Now",
       description: "Learn Now, a free educational web platform providing accessible learning resources and basic subject lessons for those who cannot afford formal education.",
-      image: "/images/project-4.jpg",
-      tags: ["React", "Stripe", "Vite", "SEO"],
-      live: "#",
-      repo: "#",
+      image: assets.project4,
+      tags: ["React", "Python", "Sql", "Vite", "Context Api", "Tailwind"],
+      live: "https://learn-now-gamma.vercel.app/",
+      repo: "https://github.com/davidojo1144/Learn_Now",
     },
      {
       title: "Headless Commerce",
