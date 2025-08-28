@@ -9,7 +9,7 @@ export function ContactSection() {
   const [message, setMessage] = useState("")
 
   const mailto = useMemo(() => {
-    const to = "hello@example.com"
+    const to = "davco1144@gmail.com"
     const subject = encodeURIComponent(`Portfolio Contact from ${name || "Your Name"}`)
     const body = encodeURIComponent(`${message}\n\n— ${name}\n${email}`)
     return `mailto:${to}?subject=${subject}&body=${body}`

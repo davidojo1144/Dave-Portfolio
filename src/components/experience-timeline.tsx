@@ -7,8 +7,8 @@ const items = [
   {
     icon: <Rocket className="h-4 w-4" />,
     title: "Frontend Engineer",
-    period: "2024 — 2025",
-    body: "Led design/dev to build mobile and web apps with robust auth and CI/CD.",
+    period: "Ongoing",
+    body: "Led designers/dev to build mobile and web apps with robust auth and CI/CD.",
   },
   {
     icon: <Wrench className="h-4 w-4" />,
