@@ -29,8 +29,8 @@ export function ProjectsSection() {
       repo: "https://github.com/davidojo1144/Tody-App-Mobile",
     },
     {
-      title: "Headless Commerce",
-      description: "Fast cart, payments, and product search with a clean, accessible design.",
+      title: "Learn Now",
+      description: "Learn Now, a free educational web platform providing accessible learning resources and basic subject lessons for those who cannot afford formal education.",
       image: "/images/project-4.jpg",
       tags: ["React", "Stripe", "Vite", "SEO"],
       live: "#",
