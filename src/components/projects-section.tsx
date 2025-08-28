@@ -34,6 +34,22 @@ export function ProjectsSection() {
       live: "#",
       repo: "#",
     },
+     {
+      title: "Headless Commerce",
+      description: "Fast cart, payments, and product search with a clean, accessible design.",
+      image: "/images/project-4.jpg",
+      tags: ["React", "Stripe", "Vite", "SEO"],
+      live: "#",
+      repo: "#",
+    },
+     {
+      title: "Headless Commerce",
+      description: "Fast cart, payments, and product search with a clean, accessible design.",
+      image: "/images/project-4.jpg",
+      tags: ["React", "Stripe", "Vite", "SEO"],
+      live: "#",
+      repo: "#",
+    },
   ]
 
   return (
