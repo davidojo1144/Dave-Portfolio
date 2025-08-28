@@ -124,14 +124,14 @@ export function NavBar() {
             <div className="flex items-center gap-3 pt-2">
               <a
                 className="inline-flex h-9 w-9 items-center justify-center rounded-md border"
-                href="mailto:hello@example.com"
+                href="mailto:davco1144@gmail.com"
                 aria-label="Email"
               >
                 <Mail className="h-5 w-5" />
               </a>
               <a
                 className="inline-flex h-9 w-9 items-center justify-center rounded-md border"
-                href="https://github.com"
+                href="https://github.com/davidojo1144"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="GitHub"
@@ -140,7 +140,7 @@ export function NavBar() {
               </a>
               <a
                 className="inline-flex h-9 w-9 items-center justify-center rounded-md border"
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/david-ojo-ba1b7b2a7"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="LinkedIn"
