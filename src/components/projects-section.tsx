@@ -13,12 +13,12 @@ export function ProjectsSection() {
       repo: "#",
     },
     {
-      title: "Realtime Chat Kit",
-      description: "A realtime chat with presence, typing indicators, and message reactions.",
+      title: "Habit Tracker Mobile App",
+      description: "Your personal companion for self-improvement. This app makes it effortless to form lasting habits with motivational streaks, customizable goals, and insightful data visualization.",
       image: "/images/project-2.jpg",
-      tags: ["React", "Firebase", "Tailwind", "Framer Motion"],
-      live: "#",
-      repo: "#",
+      tags: ["React Native", "Appwrite"],
+      live: "https://expo.dev/artifacts/eas/mSfegGGarZVxRZvxhsRmo7.apk",
+      repo: "https://github.com/davidojo1144/Habit-Tracker-MobileApp",
     },
     {
       title: "Serverless Notes",
