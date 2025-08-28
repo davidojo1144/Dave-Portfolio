@@ -116,7 +116,7 @@ export function NavBar() {
                 key={l.href}
                 href={l.href}
                 onClick={() => setOpen(false)}
-                className="text-base text-neutral-900 dark:text-neutral-100 hover:opacity-80"
+                className="text-base text-black dark:text-black hover:opacity-80"
               >
                 {l.label}
               </a>
