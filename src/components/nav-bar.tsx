@@ -130,7 +130,7 @@ export function NavBar() {
                 <Mail className="h-5 w-5" />
               </a>
               <a
-                className="inline-flex h-9 w-9 items-center justify-center rounded-md border"
+                className="inline-flex h-9 w-9 items-center justify-center rounded-md border hover:bg-neutral-100 dark:hover:bg-neutral-800"
                 href="https://github.com/davidojo1144"
                 target="_blank"
                 rel="noreferrer"
