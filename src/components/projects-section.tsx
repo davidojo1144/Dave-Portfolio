@@ -1,13 +1,15 @@
 import { ProjectCard } from "./project-card"
+import { assets } from './../images/images';
+
 
 export function ProjectsSection() {
   const projects = [
     {
-      title: "Cross‑Platform Onboarding",
-      description: "Animated, multi-step onboarding flow for mobile and web with deep-link auth and cloud sync.",
-      image: "/images/project-1.jpg",
-      tags: ["React Native", "Clerk", "Animations", "Deep Linking"],
-      live: "#",
+      title: "Go Sharperly",
+      description: "A logistics web application designed to help merchants manage, track, and optimize their shipping and delivery operations seamlessly.",
+      image: assets.project1,
+      tags: ["React vite", "Node js", "Mongo Db", "Deep Linking"],
+      live: "https://app.gosharperly.com/login",
       repo: "#",
     },
     {
