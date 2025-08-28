@@ -37,12 +37,12 @@ export function ProjectsSection() {
       repo: "https://github.com/davidojo1144/Learn_Now",
     },
      {
-      title: "Headless Commerce",
-      description: "Fast cart, payments, and product search with a clean, accessible design.",
+      title: "D clutter",
+      description: "Turn your unused household items into cash and find hidden treasures. Declutter provides a simple, trusted marketplace for your community to buy and sell pre-loved goods effortlessly.",
       image: "/images/project-4.jpg",
-      tags: ["React", "Stripe", "Vite", "SEO"],
-      live: "#",
-      repo: "#",
+      tags: ["React Vite", "Java", "Sql", "Context Api", "Tailwind"],
+      live: "https://d-clutter-project.vercel.app/",
+      repo: "https://github.com/davidojo1144/D-Clutter-Project",
     },
      {
       title: "Headless Commerce",
