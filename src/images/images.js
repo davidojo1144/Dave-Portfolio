@@ -3,5 +3,6 @@ import project2 from "./project-2.png"
 
 
 export const assets = {
-    project1
+    project1,
+    project2
 }
