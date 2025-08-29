@@ -39,7 +39,7 @@ export function ProjectsSection() {
      {
       title: "D clutter",
       description: "Turn your unused household items into cash and find hidden treasures. Declutter provides a simple, trusted marketplace for your community to buy and sell pre-loved goods effortlessly.",
-      image: "/images/project-4.jpg",
+      image: assets.project5,
       tags: ["React Vite", "Java", "Sql", "Context Api", "Tailwind"],
       live: "https://d-clutter-project.vercel.app/",
       repo: "https://github.com/davidojo1144/D-Clutter-Project",
