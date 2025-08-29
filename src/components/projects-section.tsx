@@ -48,9 +48,9 @@ export function ProjectsSection() {
       title: "Headless Commerce",
       description: "Fast cart, payments, and product search with a clean, accessible design.",
       image: "/images/project-4.jpg",
-      tags: ["React", "Stripe", "Vite", "SEO"],
+      tags: ["React Native", "Appwrite", "Restful Api", "Expo"],
       live: "#",
-      repo: "#",
+      repo: "https://github.com/davidojo1144/Jobs_Mobile_App",
     },
   ]
 
