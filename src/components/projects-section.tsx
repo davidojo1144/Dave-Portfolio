@@ -52,6 +52,22 @@ export function ProjectsSection() {
       live: "#",
       repo: "https://github.com/davidojo1144/Jobs_Mobile_App",
     },
+    {
+      title: "E Commerce",
+      description: "Stop scrolling, start applying. We streamline the job hunt for software engineers. Find relevant roles faster, apply instantly, and track your progress toward landing your next great opportunity.",
+      image: "/images/project-4.jpg",
+      tags: ["React Native", "Appwrite", "Restful Api", "Expo"],
+      live: "#",
+      repo: "https://github.com/davidojo1144/Jobs_Mobile_App",
+    },
+    {
+      title: "Jobs Mobile App",
+      description: "Stop scrolling, start applying. We streamline the job hunt for software engineers. Find relevant roles faster, apply instantly, and track your progress toward landing your next great opportunity.",
+      image: "/images/project-4.jpg",
+      tags: ["React Native", "Appwrite", "Restful Api", "Expo"],
+      live: "#",
+      repo: "https://github.com/davidojo1144/Jobs_Mobile_App",
+    },
   ]
 
   return (
