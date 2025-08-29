@@ -45,8 +45,8 @@ export function ProjectsSection() {
       repo: "https://github.com/davidojo1144/D-Clutter-Project",
     },
      {
-      title: "Headless Commerce",
-      description: "Fast cart, payments, and product search with a clean, accessible design.",
+      title: "Jobs Mobile App",
+      description: "Stop scrolling, start applying. We streamline the job hunt for software engineers. Find relevant roles faster, apply instantly, and track your progress toward landing your next great opportunity.",
       image: "/images/project-4.jpg",
       tags: ["React Native", "Appwrite", "Restful Api", "Expo"],
       live: "#",
