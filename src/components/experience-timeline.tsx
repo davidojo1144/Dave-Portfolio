@@ -7,13 +7,13 @@ const items = [
   {
     icon: <Rocket className="h-4 w-4" />,
     title: "Frontend Engineer",
-    period: "Ongoing",
-    body: "Led designers/dev to build mobile and web apps with robust auth and CI/CD.",
+    period: " 2022 - Present",
+    body: "Lead designers/dev to build mobile and web apps with robust auth and CI/CD.",
   },
   {
     icon: <Wrench className="h-4 w-4" />,
     title: "Mobile App Developer",
-    period: "Ongoing",
+    period: "2023 - Ongoing",
     body: "Build Mobile App and also Worked with Appwrite, Clerk, Firebase, Supabase, and Google Cloud to ship secure features.",
   },
   {
