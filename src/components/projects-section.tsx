@@ -47,7 +47,7 @@ export function ProjectsSection() {
      {
       title: "Jobs Mobile App",
       description: "Stop scrolling, start applying. We streamline the job hunt for software engineers. Find relevant roles faster, apply instantly, and track your progress toward landing your next great opportunity.",
-      image: "/images/project-4.jpg",
+      image: assets.project6,
       tags: ["React Native", "Appwrite", "Restful Api", "Expo"],
       live: "#",
       repo: "https://github.com/davidojo1144/Jobs_Mobile_App",
@@ -55,7 +55,7 @@ export function ProjectsSection() {
     {
       title: "E Commerce",
       description: "The Cart That Gets You. Get personalized picks, lightning-fast delivery, and a seamless way to shop your favorite brands.",
-      image: "/images/project-4.jpg",
+      image: assets.project7,
       tags: ["React vite", "Tailwind", "Context Api", "Dummy Json"],
       live: "https://my-e-commerce-project-phi.vercel.app/",
       repo: "https://github.com/davidojo1144/My-E-commerce-Project",
