@@ -65,8 +65,8 @@ export function ProjectsSection() {
       description: "Find Your Key. Not Just A House. Discover the home that’s meant for your story.",
       image: "/images/project-4.jpg",
       tags: ["React vite", "Tailwind", "Context Api"],
-      live: "#",
-      repo: "https://github.com/davidojo1144/Jobs_Mobile_App",
+      live: "https://my-real-estate-website-project.vercel.app/#Header",
+      repo: "https://github.com/davidojo1144/MyRealEstateWebsiteProject",
     },
   ]
 
