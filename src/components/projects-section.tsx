@@ -37,12 +37,12 @@ export function ProjectsSection() {
       repo: "https://github.com/davidojo1144/Learn_Now",
     },
      {
-      title: "D clutter",
-      description: "Turn your unused household items into cash and find hidden treasures. Declutter provides a simple, trusted marketplace for your community to buy and sell pre-loved goods effortlessly.",
-      image: assets.project5,
-      tags: ["React Vite", "Java", "Sql", "Context Api", "Tailwind"],
-      live: "https://d-clutter-project.vercel.app/",
-      repo: "https://github.com/davidojo1144/D-Clutter-Project",
+      title: "Real Estate",
+      description: "Find Your Key. Not Just A House. Discover the home that’s meant for your story.",
+      image: assets.project8,
+      tags: ["React vite", "Tailwind", "Context Api"],
+      live: "https://my-real-estate-website-project.vercel.app/#Header",
+      repo: "https://github.com/davidojo1144/MyRealEstateWebsiteProject",
     },
      {
       title: "Jobs Mobile App",
@@ -60,13 +60,13 @@ export function ProjectsSection() {
       live: "https://my-e-commerce-project-phi.vercel.app/",
       repo: "https://github.com/davidojo1144/My-E-commerce-Project",
     },
-    {
-      title: "Real Estate",
-      description: "Find Your Key. Not Just A House. Discover the home that’s meant for your story.",
-      image: "/images/project-4.jpg",
-      tags: ["React vite", "Tailwind", "Context Api"],
-      live: "https://my-real-estate-website-project.vercel.app/#Header",
-      repo: "https://github.com/davidojo1144/MyRealEstateWebsiteProject",
+      {
+      title: "D clutter",
+      description: "Turn your unused household items into cash and find hidden treasures. Declutter provides a simple, trusted marketplace for your community to buy and sell pre-loved goods effortlessly.",
+      image: assets.project5,
+      tags: ["React Vite", "Java", "Sql", "Context Api", "Tailwind"],
+      live: "https://d-clutter-project.vercel.app/",
+      repo: "https://github.com/davidojo1144/D-Clutter-Project",
     },
   ]
 
