@@ -6,6 +6,7 @@ import project5 from "./project-5.png"
 import project6 from "./project-6.png"
 import project7 from "./project-7.png"
 import project8 from "./project-8.png"
+import project9 from "./project-9.png"
 
 
 export const assets = {
@@ -16,5 +17,6 @@ export const assets = {
     project5,
     project6,
     project7,
-    project8
+    project8,
+    project9
 }

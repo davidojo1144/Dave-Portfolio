@@ -20,6 +20,14 @@ export function ProjectsSection() {
       live: "https://expo.dev/artifacts/eas/mSfegGGarZVxRZvxhsRmo7.apk",
       repo: "https://github.com/davidojo1144/Habit-Tracker-MobileApp",
     },
+     {
+      title: "Veegil Bank",
+      description: "Veegil Bank — a modern digital banking experience built for simplicity, speed, and security. Manage your money, make payments, and grow your finances — all in one smart app.",
+      image: assets.project9,
+      tags: ["React vite", "Tailwind", "Context Api", "Next  js", "Nest  js"],
+      live: "https://veegil-bank-3z51.onrender.com/",
+      repo: "#",
+    },
     {
       title: "E Commerce",
       description: "The Cart That Gets You. Get personalized picks, lightning-fast delivery, and a seamless way to shop your favorite brands.",
