@@ -9,7 +9,7 @@ export function ProjectsSection() {
       description: "Streamify is a next-generation real-time chat and video communication platform built for seamless, high-quality interactions. Designed with a focus on speed, clarity, and user experience, it allows users to send instant messages, make video calls, and connect effortlessly — all within a sleek, responsive interface.",
       image: assets.project11,
       tags: ["React vite", "Node js", "Mongo Db", "Zustand", "Express",],
-      live: "#",
+      live: "https://streamify-chat-video-call-app-iti8.vercel.app/",
       repo: "https://github.com/davidojo1144/Streamify-Chat-VideoCall-App",
     },
     {
