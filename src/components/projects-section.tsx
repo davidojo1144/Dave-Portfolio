@@ -5,11 +5,19 @@ import { assets } from './../images/images';
 export function ProjectsSection() {
   const projects = [
     {
+      title: "Streamify",
+      description: "Streamify is a next-generation real-time chat and video communication platform built for seamless, high-quality interactions. Designed with a focus on speed, clarity, and user experience, it allows users to send instant messages, make video calls, and connect effortlessly — all within a sleek, responsive interface.",
+      image: assets.project11,
+      tags: ["React vite", "Node js", "Mongo Db", "Zustand", "Express",],
+      live: "#",
+      repo: "#",
+    },
+    {
       title: "Real-Time Chat Application",
       description: "A modern real-time chat web application designed for seamless communication and instant message delivery.  Built with efficiency and scalability in mind, it leverages Socket.io for live bidirectional communication between users and the server, enabling instant updates without page reloads. The project showcases my ability to integrate frontend frameworks with real-time backend services, and demonstrates strong skills in JavaScript and Socket.io",
       image: assets.project10,
       tags: ["React vite", "Node js", "Mongo Db", "Socket.io", "Redux", "Express",],
-      live: "https://app.gosharperly.com/login",
+      live: "#",
       repo: "https://github.com/davidojo1144/Realtime-Chat-App",
     },
     {
