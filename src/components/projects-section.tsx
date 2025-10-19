@@ -21,14 +21,6 @@ export function ProjectsSection() {
       repo: "https://github.com/davidojo1144/Realtime-Chat-App",
     },
     {
-      title: "Go Sharperly",
-      description: "A logistics web application designed to help merchants manage, track, and optimize their shipping and delivery operations seamlessly.",
-      image: assets.project1,
-      tags: ["React vite", "Node js", "Mongo Db", "Redux", "Deep Linking"],
-      live: "https://app.gosharperly.com/login",
-      repo: "#",
-    },
-    {
       title: "Habit Tracker Mobile App",
       description: "Your personal companion for self-improvement. This app makes it effortless to form lasting habits with motivational streaks, customizable goals, and insightful data visualization.",
       image: assets.project2,
@@ -52,14 +44,6 @@ export function ProjectsSection() {
       live: "https://my-e-commerce-project-phi.vercel.app/",
       repo: "https://github.com/davidojo1144/My-E-commerce-Project",
     },
-    {
-      title: "Learn Now",
-      description: "Learn Now, a free educational web platform providing accessible learning resources and basic subject lessons for those who cannot afford formal education.",
-      image: assets.project4,
-      tags: ["React", "Python", "Sql", "Vite", "Context Api", "Tailwind"],
-      live: "https://learn-now-gamma.vercel.app/",
-      repo: "https://github.com/davidojo1144/Learn_Now",
-    },
      {
       title: "Real Estate",
       description: "Find Your Key. Not Just A House. Discover the home that’s meant for your story.",
@@ -67,6 +51,22 @@ export function ProjectsSection() {
       tags: ["React vite", "Tailwind", "Context Api"],
       live: "https://my-real-estate-website-project.vercel.app/#Header",
       repo: "https://github.com/davidojo1144/MyRealEstateWebsiteProject",
+    },
+     {
+      title: "Learn Now",
+      description: "Learn Now, a free educational web platform providing accessible learning resources and basic subject lessons for those who cannot afford formal education.",
+      image: assets.project4,
+      tags: ["React", "Python", "Sql", "Vite", "Context Api", "Tailwind"],
+      live: "https://learn-now-gamma.vercel.app/",
+      repo: "https://github.com/davidojo1144/Learn_Now",
+    },
+    {
+      title: "Go Sharperly",
+      description: "A logistics web application designed to help merchants manage, track, and optimize their shipping and delivery operations seamlessly.",
+      image: assets.project1,
+      tags: ["React vite", "Node js", "Mongo Db", "Redux", "Deep Linking"],
+      live: "https://app.gosharperly.com/login",
+      repo: "#",
     },
      {
       title: "Jobs Mobile App",
