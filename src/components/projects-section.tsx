@@ -5,6 +5,14 @@ import { assets } from './../images/images';
 export function ProjectsSection() {
   const projects = [
     {
+      title: "Real-Time Chat Application",
+      description: "A modern real-time chat web application designed for seamless communication and instant message delivery.  Built with efficiency and scalability in mind, it leverages Socket.io for live bidirectional communication between users and the server, enabling instant updates without page reloads. The project showcases my ability to integrate frontend frameworks with real-time backend services, and demonstrates strong skills in JavaScript and Socket.io",
+      image: assets.project10,
+      tags: ["React vite", "Node js", "Mongo Db", "Socket.io", "Redux", "Express",],
+      live: "https://app.gosharperly.com/login",
+      repo: "https://github.com/davidojo1144/Realtime-Chat-App",
+    },
+    {
       title: "Go Sharperly",
       description: "A logistics web application designed to help merchants manage, track, and optimize their shipping and delivery operations seamlessly.",
       image: assets.project1,
