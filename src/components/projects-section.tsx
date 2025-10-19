@@ -10,7 +10,7 @@ export function ProjectsSection() {
       image: assets.project11,
       tags: ["React vite", "Node js", "Mongo Db", "Zustand", "Express",],
       live: "#",
-      repo: "#",
+      repo: "https://github.com/davidojo1144/Streamify-Chat-VideoCall-App",
     },
     {
       title: "Real-Time Chat Application",
